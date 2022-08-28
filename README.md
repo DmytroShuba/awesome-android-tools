@@ -34,3 +34,8 @@ An awesome list that curates the best tools and libraries for Android Developmen
 
 ## Java
 - [NullAway](https://github.com/uber/NullAway)
+
+## Gradle
+
+- [Ruler](https://github.com/spotify/ruler)</br>
+Gradle plugin which helps you analyze the size of your Android apps.
