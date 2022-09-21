@@ -19,11 +19,17 @@ An awesome list that curates the best tools and libraries for Android Developmen
 ## Debugging
 - [Stetho. Debug brdige for android apps](https://github.com/facebook/stetho) </br>Allows developers have access to the app from the Chrome Developer Tools. Can be especially useful when debugging WebViews.
 - [Chucker](https://github.com/ChuckerTeam/chucker) </br>Chucker inspects HTTP(S) requests/responses fired by your Android.
+- [stackzy](https://github.com/theapache64/stackzy) </br>A cross-platform desktop application to identify libraries used inside an android application. Made possible by Compose Desktop
 
 ## Proxy
 - [Charles Debugging Proxy](https://www.charlesproxy.com/) </br>Charles enables a developer to view all of the HTTP(S) traffic between the machine and the Internet.
 - [mitmproxy](https://mitmproxy.org/) </br> **mitmproxy** is a free and open source interactive HTTPS proxy.
 - [ZAP proxy](https://www.zaproxy.org/) </br> The world’s most widely used web app scanner. Free and open source. Actively maintained by a dedicated international team of volunteers.
+
+## Security
+- [medusa](https://github.com/Ch0pin/medusa) </br> MEDUSA is an Extensible and Modularised framework that automates processes and techniques practiced during the dynamic analysis of Android Applications.
+- [Apktool](https://ibotpeaches.github.io/Apktool/) </br> A tool for reverse engineering Android apk files
+- [Androguard](https://github.com/androguard/androguard/) </br>Androguard is mainly a tool written in python to play with : * Dex/Odex (Dalvik virtual machine) (.dex) (disassemble, decompilation), * APK (Android application) (.apk), * Android's binary xml (.xml), * Android Resources (.arsc).
 
 
 ## Development
