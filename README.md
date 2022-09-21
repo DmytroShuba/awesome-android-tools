@@ -17,9 +17,14 @@ An awesome list that curates the best tools and libraries for Android Developmen
 - [vysor](https://github.com/Genymobile/scrcpy)
 
 ## Debugging
-- [Charles Debugging Proxy](https://www.charlesproxy.com/) </br>Charles enables a developer to view all of the HTTP(S) traffic between the machine and the Internet.
 - [Stetho. Debug brdige for android apps](https://github.com/facebook/stetho) </br>Allows developers have access to the app from the Chrome Developer Tools. Can be especially useful when debugging WebViews.
 - [Chucker](https://github.com/ChuckerTeam/chucker) </br>Chucker inspects HTTP(S) requests/responses fired by your Android.
+
+## Proxy
+- [Charles Debugging Proxy](https://www.charlesproxy.com/) </br>Charles enables a developer to view all of the HTTP(S) traffic between the machine and the Internet.
+- [mitmproxy](https://mitmproxy.org/) </br> **mitmproxy** is a free and open source interactive HTTPS proxy.
+- [ZAP proxy](https://www.zaproxy.org/) </br> The world’s most widely used web app scanner. Free and open source. Actively maintained by a dedicated international team of volunteers.
+
 
 ## Development
 - [Avocado](https://github.com/alexjlockwood/avocado) </br>SVG optimization and size shirnking.
