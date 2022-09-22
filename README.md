@@ -6,9 +6,11 @@ An awesome list that curates the best tools and libraries for Android Developmen
 
 - [Screen mirroring](#screen-mirroring)
 - [Debugging](#debugging)
+- [Proxy](#proxy)
 - [Development](#development)
 - [Linters and Static Code Analysis](#linters-and-static-code-analysis)
 - [Java](#java)
+- [Gradle](#gradle)
 
 </br>
 
@@ -23,8 +25,8 @@ An awesome list that curates the best tools and libraries for Android Developmen
 
 ## Proxy
 - [Charles Debugging Proxy](https://www.charlesproxy.com/) </br>Charles enables a developer to view all of the HTTP(S) traffic between the machine and the Internet.
-- [mitmproxy](https://mitmproxy.org/) </br> **mitmproxy** is a free and open source interactive HTTPS proxy.
-- [ZAP proxy](https://www.zaproxy.org/) </br> The world’s most widely used web app scanner. Free and open source. Actively maintained by a dedicated international team of volunteers.
+- [mitmproxy](https://mitmproxy.org/) </br>**mitmproxy** is a free and open source interactive HTTPS proxy.
+- [ZAP proxy](https://www.zaproxy.org/) </br>The world’s most widely used web app scanner. Free and open source. Actively maintained by a dedicated international team of volunteers.
 
 ## Security
 - [medusa](https://github.com/Ch0pin/medusa) </br> MEDUSA is an Extensible and Modularised framework that automates processes and techniques practiced during the dynamic analysis of Android Applications.
@@ -50,3 +52,5 @@ An awesome list that curates the best tools and libraries for Android Developmen
 
 - [Ruler](https://github.com/spotify/ruler)</br>
 Gradle plugin which helps you analyze the size of your Android apps.
+
+- [Seal](https://github.com/2BAB/Seal)</br>Seal is a Gradle Plugin to resolve AndroidManifest.xml merge conflicts, powered by New Variant/Artifact API & Polyfill.
