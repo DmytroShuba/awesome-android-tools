@@ -54,3 +54,6 @@ An awesome list that curates the best tools and libraries for Android Developmen
 Gradle plugin which helps you analyze the size of your Android apps.
 
 - [Seal](https://github.com/2BAB/Seal)</br>Seal is a Gradle Plugin to resolve AndroidManifest.xml merge conflicts, powered by New Variant/Artifact API & Polyfill.
+
+- [ApkScale](https://github.com/twilio/apkscale) </br>
+A Gradle plugin to measure the app size impact of Android libraries
