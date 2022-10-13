@@ -57,3 +57,6 @@ Gradle plugin which helps you analyze the size of your Android apps.
 
 - [ApkScale](https://github.com/twilio/apkscale) </br>
 A Gradle plugin to measure the app size impact of Android libraries
+
+- [Gradle profiler](https://github.com/gradle/gradle-profiler)</br>
+A tool to automate the gathering of profiling and benchmarking information for Gradle builds.
